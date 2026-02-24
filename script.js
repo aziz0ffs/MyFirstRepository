@@ -1,4 +1,4 @@
 function rengiDeysis() {
-    document.getElementById("basliq").style.color = "red";
+    document.getElementById("basliq").style.color = "blue";
     alert("Rəng dəyişdi!");
 }
